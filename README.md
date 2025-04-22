@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joe2130
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning dart
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently in my last_sem
 - 💞️ I’m looking to collaborate on a creative project with some talented individuals.
 - 📫 How to reach me on whatsapp(+91 8123979793)
 - 😄 Pronouns: He/Him
